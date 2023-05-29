@@ -1,0 +1,22 @@
+{
+  "name": "mougou021_ftc2301_groupnaeem_mogamattoufeeqgoudia_dwa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "MOUGOU021_FTC2301_GroupNaeem_MogamatToufeeqGoudia_DWA_Part1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.41.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-prettier": "^8.8.0",
+    "eslint-plugin-import": "^2.27.5",
+    "prettier": "2.8.8"
+  }
+}
