@@ -1,3 +1,4 @@
+// eslint-disable-next-line
 import { books, authors, genres, BOOKS_PER_PAGE } from "./data.js";
 
 /**
