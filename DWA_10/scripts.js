@@ -40,12 +40,12 @@ html.settings.form.addEventListener('submit', (event) => {
 });
 
 html.key.subtract.addEventListener('click', () => {
-  const newValue = parseInt(html.key.number.value) - 1;
+  const newValue = parseInt((html.key.number.value), 10)- 1;
   html.key.number.value = newValue;
 });
 
 html.key.add.addEventListener('click', () => {
-  const newValue = parseInt(html.key.number.value) + 1;
+  const newValue = parseInt((html.key.number.value), 10) + 1;
   html.key.number.value = newValue;
 });
 
